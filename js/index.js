@@ -23,5 +23,4 @@ function validarYAlmacenar() {
 function storage(username, email, age, shoeSize) {
     
     alert('Datos almacenados correctamente');
-    window.location.assign = './PreEntrega3-GutierrezA/pages/eleccion.html';
 }
