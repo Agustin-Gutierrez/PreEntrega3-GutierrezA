@@ -23,5 +23,5 @@ function validarYAlmacenar() {
 function storage(username, email, age, shoeSize) {
     
     alert('Datos almacenados correctamente');
-    window.location.replace = '/pages/eleccion.html';
+    window.location.href = '../pages/eleccion.html';
 }
